@@ -41,7 +41,7 @@ const alterarStatusEmCartaz = (index) => {
   return filmesArray;
 }
 alterarStatusEmCartaz(2);
-//listarFilmesEmCartaz();
-//listarTodosOsFilmes();
+listarFilmesEmCartaz();
+listarTodosOsFilmes();
 
 save(filmesArray);
